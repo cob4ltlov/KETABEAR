@@ -1,0 +1,89 @@
+body{
+    font-family: "adobe-heiti-std", sans-serif;
+font-weight: 400;
+font-style: normal;
+}
+
+h1{
+font-size: 50px;
+}
+
+h2{
+    text-align: center; 
+    justify-content: center; }
+
+#footer{
+    color: rgb(170, 170, 170);
+    text-align: center;
+}
+
+
+
+
+.container-fluid{
+    padding: 3% 20%;
+}
+
+.container-fluid-h2{
+    padding: 11% 20% ;
+    justify-content: center;
+
+    
+}
+
+.items{
+    list-style-type: none;  
+    font-weight: bold;  
+    font-size: 20px;
+
+}
+
+a:active{
+    color: black;
+}
+
+a:link{
+    color: black;
+}
+
+a:visited{
+    color: black;
+}
+
+
+.container-fluid-images{
+    padding: 5% 0% 5% 10%;
+}
+/*** IMAGENS ***/
+
+.IMAGE-1{
+    width: 24%;
+position: relative;
+right: 114px; 
+
+}
+
+.IMAGE-2{
+    width: 24%;
+    position: relative;
+right: 65px;
+
+
+}
+
+.IMAGE-3{
+    width: 24%;
+    position: relative;
+    right: 20px;
+
+
+
+}
+
+.IMAGE-4{
+    width: 24%;
+    position: relative;
+left: 30px; 
+
+
+}
